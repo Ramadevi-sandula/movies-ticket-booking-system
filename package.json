@@ -1,0 +1,14 @@
+{
+  "name": "online-movie-ticket-booking",
+  "version": "1.0.0",
+  "description": "Online Movie Ticket Booking System using HTML, CSS, JavaScript, Node.js, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0"
+  }
+}
